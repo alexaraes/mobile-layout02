@@ -3,17 +3,110 @@ header {
 	height: 50px;
 }
 
+.top {
+	color: white;
+	text-align: center;
+	background: #344050;
+	height: 1110px;
+	padding-top: 250px;
+}
+
+.new {
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
+
+.wordp {
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.welcome {
+	background: #1d8cbe;
+	border: 10px solid #212934;
+	width: 210px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 210px;
+}
+
+.small {
+	background: white;
+	width: 50px;
+	height: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 135px;
+}
+
+.three {
+	background: white;
+	width: 300px;
+	height: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+.second {
+	background: #e2edf3;
+	height: 190px;
+}
+
+.bottom {
+	background: #d1d3d7;
+	height: 1575px;
+	padding-top: 5px;
+}
+
+.six {
+	background: white;
+	width: 440px;
+	height: 215px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+
 .test {
-	background: lightgray;
+	background: #e2edf3;
 	padding-top: 100px;
 	padding-bottom: 20px;
 
 }
 
-.child {
+.contact {
 	background: #1e8cbe;
 	width: 210px;
 	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.black{
+	background: black;
+	height: 130px;
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	padding-top: 25px;
+}
+
+.menu {
+	color: white;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.white{
+	background: white;
+	width: 135px;
+	height: 20px;
 	margin-left: auto;
 	margin-right: auto;
 }
