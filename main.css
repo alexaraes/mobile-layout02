@@ -1,0 +1,19 @@
+header {
+	background: #1d8cbe;
+	height: 50px;
+}
+
+.test {
+	background: lightgray;
+	padding-top: 100px;
+	padding-bottom: 20px;
+
+}
+
+.child {
+	background: #1e8cbe;
+	width: 210px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+}
